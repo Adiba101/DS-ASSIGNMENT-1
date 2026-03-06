@@ -97,14 +97,16 @@ These visualizations help in identifying trends in match results and team perfor
 T20-Data-Analysis
 │
 ├── International.csv
+
 ├── ASSIGNMENT.ipynb
+
 └── README.md
 
 ▶️ How to Run the Project
 
     Clone the repository
 
-git clone https://github.com/yourusername/T20-Data-Analysis.git
+https://github.com/yourusername/DS-ASSIGNMENT-1.git
 
     Open the notebook in Google Colab
 
