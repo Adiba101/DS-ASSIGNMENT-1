@@ -1,5 +1,7 @@
 🏏 International T20 Cricket Data Analysis
+
 📌 Overview
+
 This project performs data analysis on International T20 cricket match data using Python data science libraries. The objective of this project is to explore the dataset, clean the data, perform statistical analysis, and create meaningful visualizations.
 The analysis is implemented in a notebook using Python in Google Colab, making it easy to reproduce and understand.
 
