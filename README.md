@@ -39,6 +39,7 @@ It contains information such as:
 📊 Data Analysis Steps
 
 1️⃣ Data Loading
+
 The dataset is loaded using Pandas.
 
 2️⃣ Data Exploration
