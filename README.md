@@ -28,21 +28,20 @@ It contains information such as:
     Match dates
 
 🛠 Technologies and libraries Used
-Tool 	Purpose
 
-Python 	Programming language
-Pandas 	Data manipulation
-NumPy 	Numerical computations
-Matplotlib 	Data visualization
-Seaborn 	Advanced statistical plots
-Google Colab 	Notebook environment
+1. Python 	Programming language
+2. Pandas 	Data manipulation
+3. NumPy 	Numerical computations
+4. Matplotlib 	Data visualization
+5. Seaborn 	Advanced statistical plots
+6. Google Colab 	Notebook environment
 
 📊 Data Analysis Steps
+
 1️⃣ Data Loading
-
 The dataset is loaded using Pandas.
-2️⃣ Data Exploration
 
+2️⃣ Data Exploration
 Basic dataset exploration includes:
 
     Checking shape of dataset
@@ -95,7 +94,7 @@ These visualizations help in identifying trends in match results and team perfor
 T20-Data-Analysis
 │
 ├── International.csv
-├── T20_Data_Analysis.ipynb
+├── ASSIGNMENT.ipynb
 └── README.md
 
 ▶️ How to Run the Project
