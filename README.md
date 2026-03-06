@@ -29,6 +29,7 @@ It contains information such as:
 
 🛠 Technologies and libraries Used
 Tool 	Purpose
+
 Python 	Programming language
 Pandas 	Data manipulation
 NumPy 	Numerical computations
